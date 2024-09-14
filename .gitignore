@@ -1,0 +1,25 @@
+# .NET Core specific
+*.vshost.exe
+*.deps.json
+*.pdb
+*.dll
+obj/
+bin/
+
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+
+# NuGet package cache
+packages/
+
+# Other potential entries (optional):
+*.gitattributes
+*.gitmodules
+*.gitreview
+_build/
+_publish/
+logs/
+testresults/
+coverage/
